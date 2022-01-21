@@ -88,3 +88,36 @@ span {
   line-height: 130%;
 }
 
+/*
+@media (min-width: 831px) {
+.container {
+width: 834px;
+height: 633px;
+
+background: #FFFFFF;
+}
+h1 {
+  position: absolute;
+width: 211.4px;
+height: 53.86px;
+left: 72px;
+top: 56px;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 101.38%;
+
+color: #000000;
+}
+}
+
+@media (min-width: 375px) {
+
+}
+
+@media (min-width: 1400px) {
+
+}
+
