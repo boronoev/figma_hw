@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700;900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 55px;
+  position: absolute;
+  width: 365px;
+  height: 93px;
+  left: 124px;
+  top: 91px;
+}
+
+.container {
+position: relative;
+width: 1440px;
+height: 1046px;
+margin: 91px 124px 157px 124px;
+background: #FFFFFF;
+}
+
+.text {
+position: absolute;
+width: 662px;
+height: 374px;
+left: 124px;
+top: 202px;
+
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+color: #000000;
+}
+
+.main {
+  display: flex;
+}
+
+.group11 {
+  position: absolute;
+  width: 366px;
+  height: 344px;
+  left: 950px;
+  top: 226px;
+}
+
+.group10 {
+  position: absolute;
+  width: 232px;
+  height: 219px;
+  left: 124px;
+  top: 670px;
+}
+
+.item1 {
+  position: absolute;
+  width: 150px;
+  height: 79px;
+  left: 488px;
+  top: 740px;
+}
+.item2 {
+  position: absolute;
+  width: 150px;
+  height: 79px;
+  left: 733px;
+  top: 740px;
+}
+
+.item3 {
+  position: absolute;
+  width: 150px;
+  height: 79px;
+  left: 976px;
+  top: 740px;
+}
+
+h3 {
+  font-size: 25px;
+  line-height: 130%;
+}
+span {
+  font-size: 18px;
+  line-height: 130%;
+}
+
